@@ -1,0 +1,27 @@
+#__locale__# = es-es
+#__name__# = Spanish
+
+widget.grap.diagramstats = Diagrama de Estadisticas
+widget.grap.monthreport = Reporte Mensual
+widget.grap.datatransfer = Transferencia de Información
+widget.grap.audio = audio
+widget.grap.video = video
+widget.grap.photo = foto
+widget.grap.uploadfiles = Subir Archivos
+widget.grap.sharelink = Compartir Enlance
+widget.grap.backup = Respaldo
+
+widget.profile.legend = Tu talento sorprende! esto es increíble. Emocionado por ver el producto final.
+
+
+widget.menu.followers = 15,323 seguidores
+widget.menu.edituse = Editar usuario
+widget.menu.webstatistic = Estadisticas web
+widget.menu.uploadSettings = Configuración de subidas
+widget.menu.events = Eventos
+
+
+widget.hmenu.checkin = Check In
+widget.hmenu.events = Eventos
+widget.hmenu.account = Cuenta
+widget.hmenu.settings = Configuraciones

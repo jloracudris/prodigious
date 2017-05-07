@@ -1,0 +1,36 @@
+Step 1
+
+2)Explain why you choose those 4 widgets over the others.
+	A:/ I choosed these 4 widgets, because they are the most known to me also from all the widgets those were the ones that i liked the most.
+	
+	
+Step 5
+
+Documentation
+
+This project was build with 
+	-Angular 1.6
+	-HTML - HTML 5
+	-CSS 3.0
+	-JS
+	-For i18n i used a library called ng-i18n.js for angular (https://github.com/kevinchappell/ng-i18n)
+	-Animate.css (https://daneden.github.io/animate.css/)
+	
+Desitions	
+
+-I decided to use angular for this project because is the easiest framework to start with this kind of small project(not saying that angular doesnt work well with bigger projects), also the language strategy
+that i wanted to use was written for this platform and it eases the manipulation of this kind of problem.
+
+-I picked the ng-i18n among others anguage providers, because i like the fact that the resources are not json objects, they are just plain text and the implementation is pretty straighforward and does not need much effort to configure.
+
+-I chose animate.css to animate the widgets because is a powerfull and lightweight tool to animate anything in html, require no javascript configuration.
+
+Widgets
+
+I decided to use JSON with the "Data Transfer" widget because is one of the widgets that could benefit with the use of dynamic data to populate the graph and the 
+percentages about the audio, video and photo that can be watched using watchers or another techniques that could change this data in real time.
+
+Same happens with the "Profile" widget", it has information about views, comments and likes that can be changed a lot by the server.
+	
+
+	

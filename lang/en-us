@@ -1,0 +1,25 @@
+#__locale__# = en-us
+#__name__# = English
+
+widget.grap.diagramstats = Diagram Stats
+widget.grap.monthreport = Month Report
+widget.grap.datatransfer = Data Transfer
+widget.grap.audio = audio
+widget.grap.video = video
+widget.grap.photo = photo
+widget.grap.uploadfiles = Upload Files
+widget.grap.sharelink = Share Link
+widget.grap.backup = Back Up
+
+widget.profile.legend = Your talent amazes! this is awesome. Excited to see they final product.
+
+widget.menu.followers = 15,323 followers
+widget.menu.edituse = Edit user
+widget.menu.webstatistic = Web statistics
+widget.menu.uploadSettings = Upload Settings
+widget.menu.events = Events
+
+widget.hmenu.checkin = Check In
+widget.hmenu.events = Events
+widget.hmenu.account = Account
+widget.hmenu.settings = Settings
