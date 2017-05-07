@@ -1,6 +1,8 @@
 DISCLAIMER
 
-In order to the test to work, you must install this in a web server ej: Apache
+In order to the test to work, you must install this in a web server ej: Apache. 
+
+This is needed because of the ng-i18n script uses the file system to obtain the resource files from the language the user wants. If the web server is not used the site will prompt "Cross site script error"
 
 
 Step 1
